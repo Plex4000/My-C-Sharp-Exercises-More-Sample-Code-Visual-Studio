@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\bin\Debug\FuncGenericDelegate.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\bin\Debug\FuncGenericDelegate.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\bin\Debug\FuncGenericDelegate.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\obj\Debug\FuncGenericDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\obj\Debug\FuncGenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\obj\Debug\FuncGenericDelegate.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\FuncGenericDelegate\FuncGenericDelegate\obj\Debug\FuncGenericDelegate.pdb

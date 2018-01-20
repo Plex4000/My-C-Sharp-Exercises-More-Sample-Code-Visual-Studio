@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Draw Triangle\Draw Triangle\bin\Debug\Draw Triangle.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Draw Triangle\Draw Triangle\bin\Debug\Draw Triangle.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Draw Triangle\Draw Triangle\bin\Debug\Draw Triangle.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Draw Triangle\Draw Triangle\obj\Debug\Draw Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Draw Triangle\Draw Triangle\obj\Debug\Draw Triangle.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Draw Triangle\Draw Triangle\obj\Debug\Draw Triangle.pdb

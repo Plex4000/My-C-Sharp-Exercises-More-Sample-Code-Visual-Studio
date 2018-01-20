@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions Nested Try Catch", "Exceptions Nested Try Catch\Exceptions Nested Try Catch.csproj", "{BAAA4C75-76CD-4753-9F49-98FF0438EE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAA4C75-76CD-4753-9F49-98FF0438EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAA4C75-76CD-4753-9F49-98FF0438EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAA4C75-76CD-4753-9F49-98FF0438EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAA4C75-76CD-4753-9F49-98FF0438EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

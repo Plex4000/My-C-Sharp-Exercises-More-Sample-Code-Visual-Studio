@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\BitwiseOperator\BitwiseOperator\bin\Debug\BitwiseOperator.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\BitwiseOperator\BitwiseOperator\obj\Debug\BitwiseOperator.pdb

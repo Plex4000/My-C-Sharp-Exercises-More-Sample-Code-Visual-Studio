@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Collections Dictionary\Generic Collections Dictionary\bin\Debug\Generic Collections Dictionary.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Collections Dictionary\Generic Collections Dictionary\bin\Debug\Generic Collections Dictionary.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Collections Dictionary\Generic Collections Dictionary\bin\Debug\Generic Collections Dictionary.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Collections Dictionary\Generic Collections Dictionary\obj\Debug\Generic Collections Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Collections Dictionary\Generic Collections Dictionary\obj\Debug\Generic Collections Dictionary.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Collections Dictionary\Generic Collections Dictionary\obj\Debug\Generic Collections Dictionary.pdb

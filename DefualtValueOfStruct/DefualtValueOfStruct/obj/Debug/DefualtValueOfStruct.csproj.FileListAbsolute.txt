@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\DefualtValueOfStruct\DefualtValueOfStruct\bin\Debug\DefualtValueOfStruct.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\DefualtValueOfStruct\DefualtValueOfStruct\bin\Debug\DefualtValueOfStruct.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\DefualtValueOfStruct\DefualtValueOfStruct\bin\Debug\DefualtValueOfStruct.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\DefualtValueOfStruct\DefualtValueOfStruct\obj\Debug\DefualtValueOfStruct.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\DefualtValueOfStruct\DefualtValueOfStruct\obj\Debug\DefualtValueOfStruct.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\DefualtValueOfStruct\DefualtValueOfStruct\obj\Debug\DefualtValueOfStruct.pdb

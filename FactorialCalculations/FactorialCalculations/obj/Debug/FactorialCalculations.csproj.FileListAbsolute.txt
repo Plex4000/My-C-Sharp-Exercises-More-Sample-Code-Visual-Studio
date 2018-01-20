@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FactorialCalculations\FactorialCalculations\bin\Debug\FactorialCalculations.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FactorialCalculations\FactorialCalculations\bin\Debug\FactorialCalculations.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FactorialCalculations\FactorialCalculations\bin\Debug\FactorialCalculations.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FactorialCalculations\FactorialCalculations\obj\Debug\FactorialCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FactorialCalculations\FactorialCalculations\obj\Debug\FactorialCalculations.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FactorialCalculations\FactorialCalculations\obj\Debug\FactorialCalculations.pdb

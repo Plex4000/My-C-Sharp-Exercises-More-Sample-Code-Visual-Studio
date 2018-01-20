@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymouse Types\Anonymouse Types\bin\Debug\Anonymouse Types.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymouse Types\Anonymouse Types\bin\Debug\Anonymouse Types.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymouse Types\Anonymouse Types\bin\Debug\Anonymouse Types.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymouse Types\Anonymouse Types\obj\Debug\Anonymouse Types.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymouse Types\Anonymouse Types\obj\Debug\Anonymouse Types.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymouse Types\Anonymouse Types\obj\Debug\Anonymouse Types.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\SortedLists\SortedLists\bin\Debug\SortedLists.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\SortedLists\SortedLists\bin\Debug\SortedLists.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\SortedLists\SortedLists\bin\Debug\SortedLists.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\SortedLists\SortedLists\obj\Debug\SortedLists.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\SortedLists\SortedLists\obj\Debug\SortedLists.pdb

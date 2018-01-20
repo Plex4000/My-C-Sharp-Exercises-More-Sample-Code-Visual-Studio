@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\StaticFields\StaticFields\bin\Debug\StaticFields.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\StaticFields\StaticFields\bin\Debug\StaticFields.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\StaticFields\StaticFields\bin\Debug\StaticFields.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\StaticFields\StaticFields\obj\Debug\StaticFields.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\StaticFields\StaticFields\obj\Debug\StaticFields.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\StaticFields\StaticFields\obj\Debug\StaticFields.pdb

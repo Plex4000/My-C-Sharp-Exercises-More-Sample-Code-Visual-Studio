@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Members\Static Members\bin\Debug\Static Members.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Members\Static Members\bin\Debug\Static Members.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Members\Static Members\bin\Debug\Static Members.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Members\Static Members\obj\Debug\Static Members.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Members\Static Members\obj\Debug\Static Members.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Members\Static Members\obj\Debug\Static Members.pdb

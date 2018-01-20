@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Constructors\Static Constructors\bin\Debug\Static Constructors.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Constructors\Static Constructors\bin\Debug\Static Constructors.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Constructors\Static Constructors\bin\Debug\Static Constructors.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Constructors\Static Constructors\obj\Debug\Static Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Constructors\Static Constructors\obj\Debug\Static Constructors.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Static Constructors\Static Constructors\obj\Debug\Static Constructors.pdb

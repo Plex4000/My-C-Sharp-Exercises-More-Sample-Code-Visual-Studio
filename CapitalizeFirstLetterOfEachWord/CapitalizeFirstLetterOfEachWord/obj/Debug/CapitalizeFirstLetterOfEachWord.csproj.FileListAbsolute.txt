@@ -1,0 +1,1 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\CapitalizeFirstLetterOfEachWord\CapitalizeFirstLetterOfEachWord\bin\Debug\CapitalizeFirstLetterOfEachWord.exe.config

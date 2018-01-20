@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\PrintNums\PrintNums\bin\Debug\PrintNums.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\PrintNums\PrintNums\bin\Debug\PrintNums.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\PrintNums\PrintNums\bin\Debug\PrintNums.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\PrintNums\PrintNums\obj\Debug\PrintNums.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\PrintNums\PrintNums\obj\Debug\PrintNums.pdb

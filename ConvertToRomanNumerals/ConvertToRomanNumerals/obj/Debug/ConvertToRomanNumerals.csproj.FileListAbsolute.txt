@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ConvertToRomanNumerals\ConvertToRomanNumerals\bin\Debug\ConvertToRomanNumerals.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ConvertToRomanNumerals\ConvertToRomanNumerals\bin\Debug\ConvertToRomanNumerals.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ConvertToRomanNumerals\ConvertToRomanNumerals\bin\Debug\ConvertToRomanNumerals.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ConvertToRomanNumerals\ConvertToRomanNumerals\obj\Debug\ConvertToRomanNumerals.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ConvertToRomanNumerals\ConvertToRomanNumerals\obj\Debug\ConvertToRomanNumerals.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ConvertToRomanNumerals\ConvertToRomanNumerals\obj\Debug\ConvertToRomanNumerals.pdb

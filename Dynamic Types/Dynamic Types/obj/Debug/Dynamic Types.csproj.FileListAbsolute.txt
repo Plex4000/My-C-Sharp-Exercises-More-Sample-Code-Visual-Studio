@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Dynamic Types\Dynamic Types\bin\Debug\Dynamic Types.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Dynamic Types\Dynamic Types\bin\Debug\Dynamic Types.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Dynamic Types\Dynamic Types\bin\Debug\Dynamic Types.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Dynamic Types\Dynamic Types\obj\Debug\Dynamic Types.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Dynamic Types\Dynamic Types\obj\Debug\Dynamic Types.pdb

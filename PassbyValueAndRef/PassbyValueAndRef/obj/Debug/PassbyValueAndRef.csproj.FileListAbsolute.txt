@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\bin\Debug\PassbyValueAndRef.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\bin\Debug\PassbyValueAndRef.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\bin\Debug\PassbyValueAndRef.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\obj\Debug\PassbyValueAndRef.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\obj\Debug\PassbyValueAndRef.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\obj\Debug\PassbyValueAndRef.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\PassbyValueAndRef\PassbyValueAndRef\obj\Debug\PassbyValueAndRef.pdb

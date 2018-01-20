@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Interfaces\Implicit and Explicit Interfaces\bin\Debug\Implicit and Explicit Interfaces.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Interfaces\Implicit and Explicit Interfaces\bin\Debug\Implicit and Explicit Interfaces.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Interfaces\Implicit and Explicit Interfaces\bin\Debug\Implicit and Explicit Interfaces.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Interfaces\Implicit and Explicit Interfaces\obj\Debug\Implicit and Explicit Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Interfaces\Implicit and Explicit Interfaces\obj\Debug\Implicit and Explicit Interfaces.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Interfaces\Implicit and Explicit Interfaces\obj\Debug\Implicit and Explicit Interfaces.pdb

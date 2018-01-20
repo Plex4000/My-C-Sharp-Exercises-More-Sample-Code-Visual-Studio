@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayLists\ArrayLists\bin\Debug\ArrayLists.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayLists\ArrayLists\bin\Debug\ArrayLists.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayLists\ArrayLists\obj\Debug\ArrayLists.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayLists\ArrayLists\obj\Debug\ArrayLists.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayLists\ArrayLists\obj\Debug\ArrayLists.pdb

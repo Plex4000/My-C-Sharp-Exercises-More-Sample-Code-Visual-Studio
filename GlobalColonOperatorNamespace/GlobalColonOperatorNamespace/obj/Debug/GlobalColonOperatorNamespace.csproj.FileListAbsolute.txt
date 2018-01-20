@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\bin\Debug\GlobalColonOperatorNamespace.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\bin\Debug\GlobalColonOperatorNamespace.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\bin\Debug\GlobalColonOperatorNamespace.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\obj\Debug\GlobalColonOperatorNamespace.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\obj\Debug\GlobalColonOperatorNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\obj\Debug\GlobalColonOperatorNamespace.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\GlobalColonOperatorNamespace\GlobalColonOperatorNamespace\obj\Debug\GlobalColonOperatorNamespace.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Constructors\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Constructors\Constructors\obj\Debug\Constructors.pdb

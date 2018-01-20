@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Class Inheritance\Class Inheritance\bin\Debug\Class Inheritance.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Class Inheritance\Class Inheritance\obj\Debug\Class Inheritance.pdb

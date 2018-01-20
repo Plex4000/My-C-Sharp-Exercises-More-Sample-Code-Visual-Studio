@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Ques Collection\Ques Collection\bin\Debug\Ques Collection.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Ques Collection\Ques Collection\bin\Debug\Ques Collection.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Ques Collection\Ques Collection\bin\Debug\Ques Collection.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Ques Collection\Ques Collection\obj\Debug\Ques Collection.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Ques Collection\Ques Collection\obj\Debug\Ques Collection.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Class Contraints\Generic Class Contraints\bin\Debug\Generic Class Contraints.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Class Contraints\Generic Class Contraints\bin\Debug\Generic Class Contraints.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Class Contraints\Generic Class Contraints\bin\Debug\Generic Class Contraints.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Class Contraints\Generic Class Contraints\obj\Debug\Generic Class Contraints.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Class Contraints\Generic Class Contraints\obj\Debug\Generic Class Contraints.pdb

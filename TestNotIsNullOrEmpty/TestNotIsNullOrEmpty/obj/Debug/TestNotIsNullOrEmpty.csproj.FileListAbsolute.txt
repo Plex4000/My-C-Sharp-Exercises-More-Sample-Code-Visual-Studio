@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\bin\Debug\TestNotIsNullOrEmpty.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\bin\Debug\TestNotIsNullOrEmpty.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\bin\Debug\TestNotIsNullOrEmpty.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\obj\Debug\TestNotIsNullOrEmpty.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\obj\Debug\TestNotIsNullOrEmpty.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\obj\Debug\TestNotIsNullOrEmpty.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\TestNotIsNullOrEmpty\TestNotIsNullOrEmpty\obj\Debug\TestNotIsNullOrEmpty.pdb

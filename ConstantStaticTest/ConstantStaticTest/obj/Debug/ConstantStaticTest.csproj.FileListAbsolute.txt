@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\bin\Debug\ConstantStaticTest.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\bin\Debug\ConstantStaticTest.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\bin\Debug\ConstantStaticTest.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\obj\Debug\ConstantStaticTest.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\obj\Debug\ConstantStaticTest.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\obj\Debug\ConstantStaticTest.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\ConstantStaticTest\ConstantStaticTest\obj\Debug\ConstantStaticTest.pdb

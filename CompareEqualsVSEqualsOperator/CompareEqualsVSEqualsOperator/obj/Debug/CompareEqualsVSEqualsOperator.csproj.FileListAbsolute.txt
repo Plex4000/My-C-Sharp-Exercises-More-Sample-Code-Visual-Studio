@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\CompareEqualsVSEqualsOperator\CompareEqualsVSEqualsOperator\bin\Debug\CompareEqualsVSEqualsOperator.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\CompareEqualsVSEqualsOperator\CompareEqualsVSEqualsOperator\bin\Debug\CompareEqualsVSEqualsOperator.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\CompareEqualsVSEqualsOperator\CompareEqualsVSEqualsOperator\bin\Debug\CompareEqualsVSEqualsOperator.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\CompareEqualsVSEqualsOperator\CompareEqualsVSEqualsOperator\obj\Debug\CompareEqualsVSEqualsOperator.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\CompareEqualsVSEqualsOperator\CompareEqualsVSEqualsOperator\obj\Debug\CompareEqualsVSEqualsOperator.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\CompareEqualsVSEqualsOperator\CompareEqualsVSEqualsOperator\obj\Debug\CompareEqualsVSEqualsOperator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindPrimeFactors\FindPrimeFactors\bin\Debug\FindPrimeFactors.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindPrimeFactors\FindPrimeFactors\bin\Debug\FindPrimeFactors.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindPrimeFactors\FindPrimeFactors\bin\Debug\FindPrimeFactors.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindPrimeFactors\FindPrimeFactors\obj\Debug\FindPrimeFactors.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindPrimeFactors\FindPrimeFactors\obj\Debug\FindPrimeFactors.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindPrimeFactors\FindPrimeFactors\obj\Debug\FindPrimeFactors.pdb

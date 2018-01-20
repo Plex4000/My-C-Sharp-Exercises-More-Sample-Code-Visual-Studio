@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AddSumOfNumberSeries\AddSumOfNumberSeries\bin\Debug\AddSumOfNumberSeries.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AddSumOfNumberSeries\AddSumOfNumberSeries\bin\Debug\AddSumOfNumberSeries.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AddSumOfNumberSeries\AddSumOfNumberSeries\bin\Debug\AddSumOfNumberSeries.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AddSumOfNumberSeries\AddSumOfNumberSeries\obj\Debug\AddSumOfNumberSeries.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AddSumOfNumberSeries\AddSumOfNumberSeries\obj\Debug\AddSumOfNumberSeries.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AddSumOfNumberSeries\AddSumOfNumberSeries\obj\Debug\AddSumOfNumberSeries.pdb

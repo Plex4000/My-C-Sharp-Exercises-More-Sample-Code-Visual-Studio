@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Predicate Delegate\Predicate Delegate\bin\Debug\Predicate Delegate.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Predicate Delegate\Predicate Delegate\bin\Debug\Predicate Delegate.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Predicate Delegate\Predicate Delegate\bin\Debug\Predicate Delegate.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Predicate Delegate\Predicate Delegate\obj\Debug\Predicate Delegate.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Predicate Delegate\Predicate Delegate\obj\Debug\Predicate Delegate.pdb

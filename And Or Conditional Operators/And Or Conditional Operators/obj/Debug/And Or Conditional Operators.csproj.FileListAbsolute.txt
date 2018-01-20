@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\And Or Conditional Operators\And Or Conditional Operators\bin\Debug\And Or Conditional Operators.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\And Or Conditional Operators\And Or Conditional Operators\bin\Debug\And Or Conditional Operators.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\And Or Conditional Operators\And Or Conditional Operators\bin\Debug\And Or Conditional Operators.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\And Or Conditional Operators\And Or Conditional Operators\obj\Debug\And Or Conditional Operators.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\And Or Conditional Operators\And Or Conditional Operators\obj\Debug\And Or Conditional Operators.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\And Or Conditional Operators\And Or Conditional Operators\obj\Debug\And Or Conditional Operators.pdb

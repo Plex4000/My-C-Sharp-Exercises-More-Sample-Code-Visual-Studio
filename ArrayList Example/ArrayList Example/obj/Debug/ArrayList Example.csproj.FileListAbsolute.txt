@@ -1,0 +1,1 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\ArrayList Example\ArrayList Example\bin\Debug\ArrayList Example.exe.config

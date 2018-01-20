@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AnotheRomanAraibicConverter\AnotheRomanAraibicConverter\bin\Debug\AnotheRomanAraibicConverter.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AnotheRomanAraibicConverter\AnotheRomanAraibicConverter\bin\Debug\AnotheRomanAraibicConverter.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AnotheRomanAraibicConverter\AnotheRomanAraibicConverter\bin\Debug\AnotheRomanAraibicConverter.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AnotheRomanAraibicConverter\AnotheRomanAraibicConverter\obj\Debug\AnotheRomanAraibicConverter.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AnotheRomanAraibicConverter\AnotheRomanAraibicConverter\obj\Debug\AnotheRomanAraibicConverter.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AnotheRomanAraibicConverter\AnotheRomanAraibicConverter\obj\Debug\AnotheRomanAraibicConverter.pdb

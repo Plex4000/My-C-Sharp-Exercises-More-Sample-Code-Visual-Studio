@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Delegates\Generic Delegates\bin\Debug\Generic Delegates.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Delegates\Generic Delegates\bin\Debug\Generic Delegates.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Delegates\Generic Delegates\bin\Debug\Generic Delegates.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Delegates\Generic Delegates\obj\Debug\Generic Delegates.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Generic Delegates\Generic Delegates\obj\Debug\Generic Delegates.pdb

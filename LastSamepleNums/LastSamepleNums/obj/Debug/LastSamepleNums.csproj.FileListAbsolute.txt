@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\LastSamepleNums\LastSamepleNums\bin\Debug\LastSamepleNums.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\LastSamepleNums\LastSamepleNums\bin\Debug\LastSamepleNums.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\LastSamepleNums\LastSamepleNums\bin\Debug\LastSamepleNums.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\LastSamepleNums\LastSamepleNums\obj\Debug\LastSamepleNums.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\LastSamepleNums\LastSamepleNums\obj\Debug\LastSamepleNums.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\LastSamepleNums\LastSamepleNums\obj\Debug\LastSamepleNums.pdb

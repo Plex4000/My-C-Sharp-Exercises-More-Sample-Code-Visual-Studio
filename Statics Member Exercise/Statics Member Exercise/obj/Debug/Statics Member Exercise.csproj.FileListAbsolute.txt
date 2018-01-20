@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Statics Member Exercise\Statics Member Exercise\bin\Debug\Statics Member Exercise.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Statics Member Exercise\Statics Member Exercise\bin\Debug\Statics Member Exercise.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Statics Member Exercise\Statics Member Exercise\bin\Debug\Statics Member Exercise.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Statics Member Exercise\Statics Member Exercise\obj\Debug\Statics Member Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Statics Member Exercise\Statics Member Exercise\obj\Debug\Statics Member Exercise.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Statics Member Exercise\Statics Member Exercise\obj\Debug\Statics Member Exercise.pdb

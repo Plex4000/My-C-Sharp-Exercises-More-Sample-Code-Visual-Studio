@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Casting\Implicit and Explicit Casting\bin\Debug\Implicit and Explicit Casting.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Casting\Implicit and Explicit Casting\bin\Debug\Implicit and Explicit Casting.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Casting\Implicit and Explicit Casting\bin\Debug\Implicit and Explicit Casting.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Casting\Implicit and Explicit Casting\obj\Debug\Implicit and Explicit Casting.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Casting\Implicit and Explicit Casting\obj\Debug\Implicit and Explicit Casting.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Implicit and Explicit Casting\Implicit and Explicit Casting\obj\Debug\Implicit and Explicit Casting.csprojResolveAssemblyReference.cache

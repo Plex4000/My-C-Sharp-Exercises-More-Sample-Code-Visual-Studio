@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\bin\Debug\Events3.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\bin\Debug\Events3.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\bin\Debug\Events3.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\obj\Debug\Events3.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\obj\Debug\Events3.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\obj\Debug\Events3.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\C# Exercises\Events3\Events3\obj\Debug\Events3.pdb

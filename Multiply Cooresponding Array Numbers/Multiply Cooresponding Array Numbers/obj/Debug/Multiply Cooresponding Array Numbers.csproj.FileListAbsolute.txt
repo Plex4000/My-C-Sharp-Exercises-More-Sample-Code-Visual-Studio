@@ -1,0 +1,5 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Multiply Cooresponding Array Numbers\Multiply Cooresponding Array Numbers\bin\Debug\Multiply Cooresponding Array Numbers.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Multiply Cooresponding Array Numbers\Multiply Cooresponding Array Numbers\bin\Debug\Multiply Cooresponding Array Numbers.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Multiply Cooresponding Array Numbers\Multiply Cooresponding Array Numbers\bin\Debug\Multiply Cooresponding Array Numbers.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Multiply Cooresponding Array Numbers\Multiply Cooresponding Array Numbers\obj\Debug\Multiply Cooresponding Array Numbers.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Multiply Cooresponding Array Numbers\Multiply Cooresponding Array Numbers\obj\Debug\Multiply Cooresponding Array Numbers.pdb

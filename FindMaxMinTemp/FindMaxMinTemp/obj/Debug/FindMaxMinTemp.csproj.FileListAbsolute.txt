@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindMaxMinTemp\FindMaxMinTemp\bin\Debug\FindMaxMinTemp.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindMaxMinTemp\FindMaxMinTemp\obj\Debug\FindMaxMinTemp.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindMaxMinTemp\FindMaxMinTemp\bin\Debug\FindMaxMinTemp.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindMaxMinTemp\FindMaxMinTemp\bin\Debug\FindMaxMinTemp.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindMaxMinTemp\FindMaxMinTemp\obj\Debug\FindMaxMinTemp.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\FindMaxMinTemp\FindMaxMinTemp\obj\Debug\FindMaxMinTemp.pdb

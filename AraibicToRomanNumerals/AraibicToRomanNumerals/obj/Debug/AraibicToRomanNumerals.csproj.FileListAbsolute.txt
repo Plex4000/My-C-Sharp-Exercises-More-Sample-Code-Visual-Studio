@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AraibicToRomanNumerals\AraibicToRomanNumerals\bin\Debug\AraibicToRomanNumerals.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AraibicToRomanNumerals\AraibicToRomanNumerals\obj\Debug\AraibicToRomanNumerals.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AraibicToRomanNumerals\AraibicToRomanNumerals\bin\Debug\AraibicToRomanNumerals.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AraibicToRomanNumerals\AraibicToRomanNumerals\bin\Debug\AraibicToRomanNumerals.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AraibicToRomanNumerals\AraibicToRomanNumerals\obj\Debug\AraibicToRomanNumerals.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\AraibicToRomanNumerals\AraibicToRomanNumerals\obj\Debug\AraibicToRomanNumerals.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.csprojResolveAssemblyReference.cache

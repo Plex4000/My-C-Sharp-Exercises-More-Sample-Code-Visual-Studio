@@ -1,0 +1,6 @@
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymous Methods\Anonymous Methods\bin\Debug\Anonymous Methods.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymous Methods\Anonymous Methods\bin\Debug\Anonymous Methods.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymous Methods\Anonymous Methods\bin\Debug\Anonymous Methods.pdb
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymous Methods\Anonymous Methods\obj\Debug\Anonymous Methods.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymous Methods\Anonymous Methods\obj\Debug\Anonymous Methods.exe
+C:\Users\Yanni\Documents\Visual Studio 2015\Projects\C# Exercises\Anonymous Methods\Anonymous Methods\obj\Debug\Anonymous Methods.pdb
