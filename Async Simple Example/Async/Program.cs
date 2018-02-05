@@ -1,41 +1,61 @@
-﻿using System;
+﻿using Nito.AsyncEx;
+using System;
 using System.Threading.Tasks;
 
 namespace Async
 {
     class Program
     {
-        public async void Print()
+        static async void MainAsync(string[] args)
         {
-            await SlowWork();
-            for (int i = 0; i < 100; i++)
-            {
-                Console.WriteLine("AFTER AWAIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-            }
-
+            Console.WriteLine(DateTime.Now.ToLongTimeString());
+            await new Program().Backup();
+            Console.WriteLine(DateTime.Now.ToLongTimeString());
         }
 
-        private async Task SlowWork()
+        public async Task Backup()
         {
-            for(int i = 0; i < 10000; i++)
-            {
-                Console.WriteLine(i);
-            }
-           
+            var backupStatus = await BackupAsync();
+            await Task.Delay(5000); //simulate some work
+            Console.WriteLine(backupStatus);
         }
+
+
+        public async Task<string> BackupAsync()
+        {
+            return await Task.Run(() => "groovy");
+        }
+        //public static async Task Print()
+        //{
+        //    await SlowWork();
+        //    //for (int i = 0; i < 100; i++)
+        //    //{
+        //    //    Console.WriteLine("AFTER AWAIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        //    //}
+
+        //}
+
+        //private static async Task SlowWork()
+        //{
+        //    for(int i = 0; i < 10000; i++)
+        //    {
+        //        Console.Write(i);
+        //    }
+
+        //}
 
         static void Main(string[] args)
         {
-        
-            Program prog = new Program();
-            prog.Print();
-            for (int i = 0; i < 100; i++)
+
+            AsyncContext.Run(() => MainAsync(args));
+
+            //Print();
+
+
+            for (int i = 0; i < 10000; i++)
             {
-                Console.WriteLine("MAIN THREAD!");
+                Console.Write("MAIN THREAD!");
             }
-
-
-
 
         }
     }

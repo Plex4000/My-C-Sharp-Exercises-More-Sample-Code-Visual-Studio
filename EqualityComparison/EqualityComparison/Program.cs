@@ -10,7 +10,7 @@ namespace EqualityComparison
         }
         static void Main(string[] args)
         {
-            test x = null;
+            test x = new test();
             test y = new test();
 
             object a = 3;

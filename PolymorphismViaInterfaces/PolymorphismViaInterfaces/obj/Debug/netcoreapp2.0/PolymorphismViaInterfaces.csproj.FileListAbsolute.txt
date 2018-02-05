@@ -1,0 +1,11 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\obj\Debug\netcoreapp2.0\PolymorphismViaInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\obj\Debug\netcoreapp2.0\PolymorphismViaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\obj\Debug\netcoreapp2.0\PolymorphismViaInterfaces.AssemblyInfoInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\obj\Debug\netcoreapp2.0\PolymorphismViaInterfaces.AssemblyInfo.cs
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\bin\Debug\netcoreapp2.0\PolymorphismViaInterfaces.deps.json
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\bin\Debug\netcoreapp2.0\PolymorphismViaInterfaces.runtimeconfig.json
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\bin\Debug\netcoreapp2.0\PolymorphismViaInterfaces.runtimeconfig.dev.json
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\bin\Debug\netcoreapp2.0\PolymorphismViaInterfaces.dll
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\bin\Debug\netcoreapp2.0\PolymorphismViaInterfaces.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\obj\Debug\netcoreapp2.0\PolymorphismViaInterfaces.dll
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\PolymorphismViaInterfaces\PolymorphismViaInterfaces\obj\Debug\netcoreapp2.0\PolymorphismViaInterfaces.pdb

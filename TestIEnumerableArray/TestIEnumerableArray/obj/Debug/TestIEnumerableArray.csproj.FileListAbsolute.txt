@@ -1,0 +1,7 @@
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\bin\Debug\TestIEnumerableArray.exe.config
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\bin\Debug\TestIEnumerableArray.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\bin\Debug\TestIEnumerableArray.pdb
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\obj\Debug\TestIEnumerableArray.csprojResolveAssemblyReference.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\obj\Debug\TestIEnumerableArray.csproj.CoreCompileInputs.cache
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\obj\Debug\TestIEnumerableArray.exe
+C:\Users\Yanni\Documents\Visual Studio 2017\Projects\TestIEnumerableArray\TestIEnumerableArray\obj\Debug\TestIEnumerableArray.pdb
